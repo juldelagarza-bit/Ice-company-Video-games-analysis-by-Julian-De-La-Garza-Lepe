@@ -50,13 +50,13 @@ Análisis de datos de ventas de videojuegos para la tienda online Ice. El objeti
 - **Estacionalidad:** Los lanzamientos en Q4 (octubre-diciembre) muestran mejores resultados de ventas
 
 ## Estructura del Proyecto
-```
+
 ├── README.md
 ├── ICE company videogames industry project S6.py
 ├── ICE company videogames industry project S6.ipynb
-└── graficos/
 ├── games.csv
 ├── requirements.txt
+└── graficos/
 
 ## Autor
 [Julián De La Garza Lepe]
