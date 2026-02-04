@@ -59,4 +59,5 @@ Análisis de datos de ventas de videojuegos para la tienda online Ice. El objeti
 ├── requirements.txt
 
 ## Autor
-Julián De La Garza Lepe
+[Julián De La Garza Lepe]
+```
