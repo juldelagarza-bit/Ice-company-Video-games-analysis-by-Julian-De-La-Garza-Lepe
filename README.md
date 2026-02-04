@@ -58,3 +58,4 @@ Análisis de datos de ventas de videojuegos para la tienda online Ice. El objeti
 ├── games.csv
 ├── requirements.txt
 
+Creado por Julián De La Garza Lepe
