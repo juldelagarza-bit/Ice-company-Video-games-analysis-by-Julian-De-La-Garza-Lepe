@@ -1,7 +1,6 @@
 # Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe
-Bootcamp Tripleten sprint #6 
 
- Análisis de Datos de Videojuegos - Proyecto Integrado
+ Análisis de Data de la industria de Videojuegos En USA, Europa y Japon en 2017. 
 
 ## Descripción del Proyecto
 Análisis de datos de ventas de videojuegos para la tienda online Ice. El objetivo es identificar patrones que determinen el éxito de un videojuego y planificar campañas publicitarias efectivas para 2017.
