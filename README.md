@@ -1,62 +1,61 @@
-# Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe
+# Ice-company-Video-games-analysis-by-Julian-De-La-Garza-Lepe 
 
- Análisis de Data de la industria de Videojuegos En USA, Europa y Japon en 2017. 
+Data analysis of the Video Game industry in the USA, Europe and Japan in 2017.
 
-## Descripción del Proyecto
-Análisis de datos de ventas de videojuegos para la tienda online Ice. El objetivo es identificar patrones que determinen el éxito de un videojuego y planificar campañas publicitarias efectivas para 2017.
+## Project Description
+Analysis of video game sales data for the Ice gaming e-commerce. The objective is to identify patterns that determine the success of a video game and plan effective advertising campaigns for 2017.
 
-## Objetivos del Análisis
-- Identificar patrones de éxito en videojuegos
-- Analizar ventas por región, plataforma y género
-- Realizar pruebas de hipótesis estadísticas
-- Crear perfiles de usuarios por región
-- Detectar proyectos prometedores
+## Analysis Objectives
+- Identify patterns of success in video games
+- Analyze sales by region, platform and genre
+- Perform statistical hypothesis tests
+- Create user profiles by region
+- Detect promising projects
 
-## Dataset
-- **Fuente:** Datos históricos de ventas de videojuegos hasta 2016
-- **Archivo:** `games.csv`
-- **Variables:** Plataforma, año, género, ventas por región, puntuaciones de críticos y usuarios, clasificación ESRB
+##Dataset
+- **Source:** Historical video game sales data until 2016
+- **File:** `games.csv`
+- **Variables:** Platform, year, genre, sales by region, critic and user ratings, ESRB rating
 
-## Metodología
-1. **Preparación de datos:** Limpieza, conversión de tipos, manejo de valores ausentes
-2. **Análisis exploratorio:** Distribuciones, tendencias temporales, análisis por categorías
-3. **Análisis estadístico:** Cálculo de medidas de tendencia central y dispersión
-4. **Pruebas de hipótesis:** Comparación de medias entre grupos
-5. **Perfiles de usuario:** Análisis por región (NA, EU, JP)
+## Methodology
+1. **Data preparation:** Cleaning, type conversion, handling of missing values
+2. **Exploratory analysis:** Distributions, temporal trends, category analysis
+3. **Statistical analysis:** Calculation of measures of central tendency and dispersion
+4. **Hypothesis testing:** Comparison of means between groups
+5. **User profiles:** Analysis by region (NA, EU, JP)
 
-## Tecnologías Utilizadas
-- Python
+## Technologies Used
+-Python
 - Pandas
-- NumPy
+-NumPy
 - Matplotlib (plotpy)
-- SciPy (para pruebas estadísticas)
+- SciPy (for statistical tests)
 
-## Principales Hallazgos
+## Main Findings
 
-- **Ciclo de vida de plataformas:** Las plataformas tienen un ciclo de vida de 5-10 años, con PS4 y Xbox One dominando las ventas recientes (2013-2016)
+- **Platform life cycle:** Platforms have a 5-10 year life cycle, with PS4 and Xbox One dominating recent sales (2013-2016)
 
-- **Diferencias regionales significativas:** 
-  - Norteamérica prefiere juegos de Acción y Shooter
-  - Europa sigue patrones similares a NA pero con menor volumen
-  - Japón tiene preferencias únicas hacia RPG y juegos de Nintendo
+- **Significant regional differences:** 
+- North America prefers Action and Shooter games 
+- Europe follows similar patterns to NA but with lower volume 
+- Japan has unique preferences towards RPGs and Nintendo games
 
-- **Impacto de las puntuaciones:** Las puntuaciones de críticos muestran mayor correlación con las ventas globales que las puntuaciones de usuarios
+- **Impact of ratings:** Critic ratings show greater correlation with overall sales than user ratings
 
-- **Géneros más rentables:** Action, Sports y Shooter generan las mayores ventas totales y en potencial de mercado se mantienen igual  a nivel mundial
+- **Most profitable genres:** Action, Sports and Shooter generate the highest total sales and market potential remains the same worldwide
 
-- **Clasificación ESRB:** Los juegos clasificados como "M" (Mature) y "E" (Everyone) tienen el mejor desempeño comercial
+- **ESRB Rating:** Games rated "M" (Mature) and "E" (Everyone) have the best commercial performance
 
-- **Estacionalidad:** Los lanzamientos en Q4 (octubre-diciembre) muestran mejores resultados de ventas
+- **Seasonality:** Launches in Q4 (October-December) show better sales results
 
-## Estructura del Proyecto
+## Project Structure
 ```
 ├── README.md
 ├── ICE company videogames industry project S6.py
 ├── ICE company videogames industry project S6.ipynb
 ├── games.csv
 ├── requirements.txt
-└── graficos/
+└── graphics/
 ```
-## Autor
+## Author
 [Julián De La Garza Lepe]
-
